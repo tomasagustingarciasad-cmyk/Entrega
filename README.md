@@ -1,6 +1,6 @@
 # Entrega
 
-## Grupo: NN
+## Grupo: Mecatrónica
 
 ### Integrantes: 
 
