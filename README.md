@@ -10,5 +10,6 @@ Entrega del modulo 1 <https://github.com/tomasagustingarciasad-cmyk/Modulo_1/tre
 
 Nahuel Arroyat: <https://github.com/Nahuman64/Modulo_1.git>
 
+Medina Gabriel José <https://github.com/GJMedina5/Modulo_1>
 
 
