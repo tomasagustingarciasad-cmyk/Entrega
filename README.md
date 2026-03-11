@@ -18,4 +18,6 @@ Medina Gabriel José <https://github.com/GJMedina5/Modulo_1>
 
 Renzo Scaglia: <https://github.com/Renzo-scaglia/Modulo_1> 
 
+Maximo Tomazzeli: <https://github.com/maxitomaz/Modulo_1>
+
 
