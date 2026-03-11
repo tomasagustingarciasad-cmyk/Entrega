@@ -27,4 +27,6 @@ Bruno Iglesias <https://github.com/Brunillo19/Modulo_1>
 
 Tomás Fiorentini: <https://github.com/tomas-fiorentini/Modulo-1-TyHM1>
 
-Ignacio Kaiser: <https://github.com/IgnacioKaiser/Modulo_1>
+Francisco Bazan: <https://github.com/FranBazan11/modulo_1>
+
+Milagros Mattolini: <https://github.com/mattolinimilagros-code/modulo1>
