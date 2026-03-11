@@ -19,4 +19,6 @@ Renzo Scaglia: <https://github.com/Renzo-scaglia/Modulo_1>
 
 Maximo Tomazzeli: <https://github.com/maxitomaz/Modulo_1>
 
+Gabriel Mamaní: <https://github.com/Gabrielle-23/Modulo_1.git>
+
 
