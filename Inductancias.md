@@ -14,4 +14,5 @@
 | Alarcon Ana | 137  | 141   |
 | Maximo Tomazzeli | 374  | 362   |
 | Julian Correa | 143  | 190    |
+| Tomas Fatiboni | 696 | 500   |
 
