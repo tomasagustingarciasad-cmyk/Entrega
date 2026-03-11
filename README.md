@@ -24,3 +24,5 @@ Gabriel Mamaní: <https://github.com/Gabrielle-23/Modulo_1.git>
 Germán Ricco <https://github.com/germanricco/Modulo-1>
 
 Bruno Iglesias <https://github.com/Brunillo19/Modulo_1>
+
+Tomás Fiorentini: <https://github.com/tomas-fiorentini/Modulo-1-TyHM1>
