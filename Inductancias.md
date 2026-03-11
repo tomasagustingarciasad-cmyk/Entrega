@@ -10,8 +10,8 @@
 | Tomás García | 719 | 697  |
 | Franco Dujanoff    |  441   |407 |
 | Nicolas Vasquez   |  512    | ????    |
-
+| Renzo Scaglia   |  231    | 254     |
 | Alarcon Ana | 137  | 141   |
 | Maximo Tomazzeli | 374  | 362   |
 | Julian Correa | 143  | 190    |
-| Renzo Scaglia    |  231   |  254  |
+
