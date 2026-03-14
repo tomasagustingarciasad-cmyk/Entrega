@@ -16,3 +16,4 @@
 | Julian Correa | 143  | 190    |
 | Tomas Fatiboni | 696 | 500   |
 | Renzo Tacchini | 313 | ???   |
+| Bruno Iglesias | 973 | 950   |
