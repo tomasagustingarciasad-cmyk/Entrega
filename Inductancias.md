@@ -18,3 +18,4 @@
 | Renzo Tacchini | 313 | ???   |
 | Juan Francisco Bazan Carrizo | 219 | 350 |
 | Bruno Iglesias | 973 | 950   |
+| Pedro Ortiz | 713 | 863  |
