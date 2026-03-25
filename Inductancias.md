@@ -20,3 +20,4 @@
 | Bruno Iglesias | 973 | 950   | 164 |
 | Pedro Ortiz | 713 | 863  | ????    |
 | Martín Cazabán | 319 | 415  | ????    |
+| Ignacio Kaiser | 219 | 206  | ????    |
