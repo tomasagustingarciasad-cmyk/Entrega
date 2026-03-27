@@ -35,3 +35,5 @@ Juan Francisco Bazan Carrizo <https://github.com/FranBazan11/modulo_1.git>
 
 Martín Cazabán <https://github.com/martincazaban/Modulo_1>
 
+Nahuel Toci <https://github.com/Nahuell13/Modulo_1>
+
