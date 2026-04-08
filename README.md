@@ -42,4 +42,4 @@ Santiago Tisera: <https://github.com/SantiagoTisera/Modulo_1>
 Maia Nava:  <https://github.com/Maia1808/Modulo_1>
 
 
-Github Mecatronica: [text](https://github.com/ricardorpalma/TyHM_2026/blob/main/Mecatronica.md)
+Github Mecatronica: [Mecatronica](https://github.com/ricardorpalma/TyHM_2026/blob/main/Mecatronica.md)
