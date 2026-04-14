@@ -16,6 +16,7 @@
 | Julian Correa | 143  | 190    | ????    |
 | Tomas Fatiboni | 696 | 500   | ????    |
 | Renzo Tacchini | 313 | 426   | 138    |
+| Santiago Tisera | 392 | 410 | 155
 | Juan Francisco Bazan Carrizo | 219 | 350 | ????    |
 | Bruno Iglesias | 973 | 950   | 164 |
 | Pedro Ortiz | 713 | 863  | ????    |
