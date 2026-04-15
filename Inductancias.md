@@ -20,5 +20,5 @@
 | Juan Francisco Bazan Carrizo | 219 | 350 | ????    |
 | Bruno Iglesias | 973 | 950   | 164 |
 | Pedro Ortiz | 713 | 863  | ????    |
-| Martín Cazabán | 319 | 415  | ????    |
+| Martín Cazabán | 319 | 415  | 15.7    |
 | Ignacio Kaiser | 219 | 206  | ????    |
