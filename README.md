@@ -26,4 +26,6 @@
 |Tomás García:|	<https://github.com/tomasagustingarciasad-cmyk/Modulo_1/tree/main>|
 |Santiago Fernandez| <https://github.com/Carula99/Modulo_1>|
 |Francisco Villarreal| <https://github.com/FranciscoV214/Modulo_1>|
+|Joaquin Jofre| <https://github.com/Joaquin-Jofre/Modulo1>|
+|Ana Alarcon| <https://github.com/AnaAlarcon002/-modulo1>|
 
