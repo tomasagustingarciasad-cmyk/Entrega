@@ -9,6 +9,7 @@
 |Franco Dujanoff:|	<https://github.com/FrancoDujanoff/Modulo_1>|
 |Gabriel Mamaní:|	<https://github.com/Gabrielle-23/Modulo_1.git>|
 |Germán Ricco|	<https://github.com/germanricco/Modulo-1>|
+|Ignacio Kaiser|	<https://github.com/IgnacioKaiser/Modulo_1>|
 |Juan Francisco Bazan Carrizo|	<https://github.com/FranBazan11/modulo_1.git>|
 |Maia Nava:|	<https://github.com/Maia1808/Modulo_1>|
 |Martín Cazabán|	<https://github.com/martincazaban/Modulo_1>|
