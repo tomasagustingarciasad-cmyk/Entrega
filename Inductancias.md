@@ -22,3 +22,15 @@
 | Pedro Ortiz | 713 | 863  | ????    |
 | Martín Cazabán | 319 | 415  | 15.7    |
 | Ignacio Kaiser | 219 | 206  | ????    |
+| Francisco Villarreal | 493 | 300  | 10pf    |
+| Joaquin Jofre | 166 | 168  | ????    |
+| Santiago Fernández | 650 | 647  | ????    |
+| Ana Alarcón | 131 | 147  | ????    |
+
+
+
+
+
+
+
+
