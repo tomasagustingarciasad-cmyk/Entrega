@@ -18,7 +18,7 @@
 |Milagros Mattolini:|	<https://github.com/mattolinimilagros-code/modulo1>|
 |Nahuel Arroyat:|	<https://github.com/Nahuman64/Modulo_1.git>|
 |Nahuel Toci|	<https://github.com/Nahuell13/Modulo_1>|
-|Peddro Ortiz:|	<https://github.com/peterortiz03/Modulo_1>|
+|Pedro Ortiz:|	<https://github.com/peterortiz03/Modulo_1>|
 |Renzo Scaglia:|	<https://github.com/Renzo-scaglia/Modulo_1>|
 |Renzo Tacchini:|	<https://github.com/RTacchini/Modulo_1.git>|
 |Santiago Tisera:|	<https://github.com/SantiagoTisera/Modulo_1>|
