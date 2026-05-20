@@ -24,7 +24,7 @@
 |Renzo Tacchini:|	<https://github.com/RTacchini/Modulo_1.git>|
 |Santiago Tisera:|	<https://github.com/SantiagoTisera/Modulo_1>|
 |Tomás Fiorentini:|	<https://github.com/tomas-fiorentini/Modulo-1-TyHM1>|
-|Tomás García:|	<https://github.com/tomasagustingarciasad-cmyk/Modulo_1/tree/main>|
+|Tomás García:|	<https://github.com/tomasagustingarciasad-cmyk/Modulo_1>|
 |Santiago Fernandez| <https://github.com/Carula99/Modulo_1>|
 |Francisco Villarreal| <https://github.com/FranciscoV214/Modulo_1>|
 |Joaquin Jofre| <https://github.com/Joaquin-Jofre/Modulo1>|
