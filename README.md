@@ -13,7 +13,7 @@
 |Fausto Caprioli|	<https://github.com/fcaprioli2004/Modulo1>|
 |Juan Francisco Bazan Carrizo|	<https://github.com/FranBazan11/modulo_1.git>|
 |Maia Nava:|	<https://github.com/Maia1808/Modulo_1>|
-|Marcos Guerreiro:|	<https://github.com/MarcosGuerreiro/Modulo_>
+|Marcos Guerreiro:|	<https://github.com/Marcos-Guerreiro/Modulo_>
 |Martín Cazabán|	<https://github.com/martincazaban/Modulo_1>|
 |Maximo Tomazzeli:|	<https://github.com/maxitomaz/Modulo_1>|
 |Medina Gabriel José|	<https://github.com/GJMedina5/Modulo_1>|
