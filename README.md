@@ -30,4 +30,4 @@
 |Francisco Villarreal| <https://github.com/FranciscoV214/Modulo_1>|
 |Joaquin Jofre| <https://github.com/Joaquin-Jofre/Modulo1>|
 |Ana Alarcon| <https://github.com/AnaAlarcon002/-modulo1>|
-
+|Vasquez Nicolas| <https://github.com/nicolas-vasquez-meca/Modulo_1.git>
