@@ -32,3 +32,4 @@
 |Joaquin Jofre| <https://github.com/Joaquin-Jofre/Modulo1>|
 |Ana Alarcon| <https://github.com/AnaAlarcon002/-modulo1>|
 |Vasquez Nicolas| <https://github.com/nicolas-vasquez-meca/Modulo_1.git>
+|Julián Correa Villarreal|<https://github.com/jcorreavi/Modulo_1>|
